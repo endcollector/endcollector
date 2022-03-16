@@ -1,1 +1,1 @@
-Hi I'm endcollector, this GitHub is mostly used for the Minecraft mod BoxBot Faded Conquest which I co-own.
+Hi I'm endcollector, this GitHub is mostly used for the Minecraft mod Faded Conquest which I co-own.
